@@ -1,4 +1,4 @@
-import{s as e}from"./index-Dtok5lqr.js";/**
+import{s as e}from"./index-COGKBhL2.js";/**
  * @license @tabler/icons-react v3.29.0 - MIT
  *
  * This source code is licensed under the MIT license.
