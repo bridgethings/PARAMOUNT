@@ -1,4 +1,4 @@
-import{s as t,w as n,ad as a}from"./index-D1Sx8b-i.js";/**
+import{s as t,w as n,ad as a}from"./index-D_84-Cuw.js";/**
  * @license @tabler/icons-react v3.29.0 - MIT
  *
  * This source code is licensed under the MIT license.
